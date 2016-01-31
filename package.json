@@ -1,0 +1,19 @@
+{
+  "name": "codealong",
+  "version": "0.0.1",
+  "description": "A tool for teaching code-along-style lessons.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevekinney/codealong.git"
+  },
+  "author": "Steve Kinney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevekinney/codealong/issues"
+  },
+  "homepage": "https://github.com/stevekinney/codealong#readme"
+}
