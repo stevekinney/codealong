@@ -1,0 +1,9 @@
+{
+  "ignored": {
+    "files": [],
+    "directories": [
+      ".git",
+      "node_modules"
+    ]
+  }
+}

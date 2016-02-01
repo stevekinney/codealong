@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/stevekinney/codealong/issues"
   },
-  "homepage": "https://github.com/stevekinney/codealong#readme"
+  "homepage": "https://github.com/stevekinney/codealong#readme",
+  "dependencies": {
+    "lodash": "^4.1.0"
+  }
 }
